@@ -9,21 +9,31 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=leoruhl94.leoruhl94)
 
 </p>
-<div size='20px'> Hi! My name is Leonardo Ruhl . Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hola!! Mi nombre es Leo y Soy Full Stack Developer con experiencia en el desarrollo de aplicaciones Front-end y Back-end.
+Me apasiona Programar, Enseñar y encarar nuevos desafíos que continuamente me permitan aprender algo nuevo.
 </div>
+<br>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- Desde la infancia me ha gustado crear cosas, decidí entrar al mundo IT porque para crear algo grandioso, el único limite que existe es tu imaginación.
+Desde entonces no dejo de sorprenderme de lo que se puede lograr trabajando en equipo y con solo unas líneas de código.
 
-- 🔭 I’m currently working on I am currently working on: My Blog, Github Project
+- 🔍 Estoy en búsqueda de nuevos desafíos donde pueda aportar mi experiencia y conocimientos. Busco un puesto que me permita seguir aprendiendo y desarrollarme como profesional.
 
-- 🌱 I’m currently learning I am currently learning: Data Science,AWS,Data Engineering 
 
-- 👯 I’m looking to collaborate on I am looking to collaborate on: Projects,Tech Articles 
+- 🧠 Me considero una persona autodidacta, actualmente estoy estudiando tecnologías de Front-end para especializarme en esa área de desarrollo.
 
-- 💬 Talk to me about talk to me about: Python, JavaScript, Freelancing Opportunites, Open Source 
+ 
+
+- 💬 Contacto 
+ <br>E-mail: Leoruhl94@gmail.com
+ <br>Linkedin: https://www.linkedin.com/in/leonardo-ruhl/
+ <br>Whatsapp: wa.link/x4hwcq
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/leoruhl94?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
@@ -50,14 +60,12 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.linkedin.com/in/leonardo-ruhl/">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=leoruhl94&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoruhl94&theme=dark" />
 </a>
-
-
 
 <br>
 
