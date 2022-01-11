@@ -19,10 +19,9 @@ Me apasiona Programar, Enseñar y encarar nuevos desafíos que continuamente me 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- Desde la infancia me ha gustado crear cosas, decidí entrar al mundo IT porque para crear algo grandioso, el único limite que existe es tu imaginación.
-Desde entonces no dejo de sorprenderme de lo que se puede lograr trabajando en equipo y con solo unas líneas de código.
+- Siempre me gusto crear cosas, programando tengo la oportunidad de crear soluciones que puedan ayudar a mejorar el mundo con solo unas líneas de código.
 
-- 🔍 Estoy en búsqueda de nuevos desafíos donde pueda aportar mi experiencia y conocimientos. Busco un puesto que me permita seguir aprendiendo y desarrollarme como profesional.
+- 🔍 Actualmente estoy en búsqueda de nuevos desafíos donde pueda aportar mi experiencia y conocimientos. Busco un puesto que me permita seguir aprendiendo y desarrollandome como profesional..
 
 
 - 🧠 Me considero una persona autodidacta, actualmente estoy estudiando tecnologías de Front-end para especializarme en esa área de desarrollo.
@@ -33,6 +32,7 @@ Desde entonces no dejo de sorprenderme de lo que se puede lograr trabajando en e
  <br>E-mail: Leoruhl94@gmail.com
  <br>Linkedin: https://www.linkedin.com/in/leonardo-ruhl/
  <br>Whatsapp: https://wa.link/x4hwcq
+ <br>Portfolio: https://leoruhl.com.ar
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -47,7 +47,7 @@ Desde entonces no dejo de sorprenderme de lo que se puede lograr trabajando en e
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/leonardo-ruhl'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'http://ojalafuncione.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://leoruhl.com.ar/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/leoruhl94'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
